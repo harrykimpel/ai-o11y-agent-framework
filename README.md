@@ -7,3 +7,7 @@ dotnet build
 ```
 dotnet publish
 ```
+
+```
+./run.sh
+```
